@@ -60,6 +60,6 @@ Composer adalah alat manajemen paket untuk bahasa pemrograman PHP yang digunakan
 
 ​	<img style="display: block; margin: 0;" src="assets/6.jpg" />
 
-- Buka windows terminal pada lokasi PHP tersebut. Selanjutnya tuliskan perintah `composer --version` jika berhasil maka akan tampil versi dari composer yang telah di-instal sebelumnya. Dalam kasus ini menggunakan composer versi `2.7.2`.
+- Buka windows terminal pada lokasi PHP tersebut. Selanjutnya tuliskan perintah `php composer.phar --version` jika berhasil maka akan tampil versi dari composer yang telah di-instal sebelumnya. Dalam kasus ini menggunakan composer versi `2.7.2`.
 
 ​	<img style="display: block; margin: 0;" src="assets/10.jpg" />
