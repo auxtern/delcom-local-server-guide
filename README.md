@@ -20,11 +20,11 @@ DLS menggunakan berbagai macam tools yang dibutuhkan untuk dapat membuat server 
 
 - Separated
 
-  >  Apache : [[Download](https://www.apachelounge.com/download/)]
-  > Git Portable : [[Download](https://git-scm.com/download/win)]
-  > Github CLI : [[Download](https://cli.github.com/)]
-  > MariaDB : [[Download](https://mariadb.org/download/)]
-  > PHP : [[Download](https://www.php.net/downloads.php)]
+  >  - Apache : [[Download](https://www.apachelounge.com/download/)]
+  > - Git Portable : [[Download](https://git-scm.com/download/win)]
+  > - Github CLI : [[Download](https://cli.github.com/)]
+  > - MariaDB : [[Download](https://mariadb.org/download/)]
+  > - PHP : [[Download](https://www.php.net/downloads.php)]
 
 **Optional** (Opsional)
 
