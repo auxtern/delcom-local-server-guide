@@ -4,7 +4,7 @@
 
 2. Silahkan masuk ke akun Github kamu dengan mengunjungi situs berikut: https://github.com/login
 
-3. Setelah berhasil login. Pada halaman Home silahkan pilih menu ` profile`. 
+3. Setelah berhasil login. Pada halaman Home silahkan pilih menu `profile`. 
 
 	<img style="display: block; margin: 0;" src="img/15.jpg" />
   
