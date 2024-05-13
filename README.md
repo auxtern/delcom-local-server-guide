@@ -53,7 +53,7 @@ DLS menggunakan berbagai macam tools yang dibutuhkan untuk dapat membuat server 
 
 	<img style="display: block; margin: 0;" src="./img/4.jpg" />
 
-5. Jika belum memiliki akun Github silahkan [[Mendaftar Akun Github]()] terlebih dahulu. Jika sudah memiliki akun silahkan [[Membuat Github Token]()] terlebih dahulu. Jika sudah memiliki Github Token silahkan salin dan masukkan ke bagian isian `Github Token` pada DLS. Jika valid maka akan tampil ikon save. Pilih pada tombol save tersebut untuk melakukan setup secara otomatis.
+5. Jika belum memiliki akun Github silahkan [[Mendaftar Akun Github](github/register.md)] terlebih dahulu. Jika sudah memiliki akun silahkan [[Membuat Token Github](github/token.md)] terlebih dahulu. Jika sudah memiliki Github Token silahkan salin dan masukkan ke bagian isian `Github Token` pada DLS. Jika valid maka akan tampil ikon save. Pilih pada tombol save tersebut untuk melakukan setup secara otomatis.
 
 	<img style="display: block; margin: 0;" src="./img/5.jpg" />
 
