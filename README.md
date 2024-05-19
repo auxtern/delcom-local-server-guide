@@ -151,3 +151,8 @@ Pada DLS kamu dapat menghubungkan proyek kamu ke repository Github. Seperti beri
 
 	<img style="display: block; margin: 0;" src="./img/20.jpg" />
 
+
+
+## Templates
+
+Kamu dapat menggunakan daftar URL repositori berikut untuk memberikan referensi terkait proyek yang akan dibuat: [[Templates](templates.md)]
